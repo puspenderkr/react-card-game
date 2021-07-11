@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-card-game/static/css/main.ef27aa32.chunk.css",
+    "main.js": "/react-card-game/static/js/main.f5d096a3.chunk.js",
+    "main.js.map": "/react-card-game/static/js/main.f5d096a3.chunk.js.map",
+    "runtime-main.js": "/react-card-game/static/js/runtime-main.6b09766d.js",
+    "runtime-main.js.map": "/react-card-game/static/js/runtime-main.6b09766d.js.map",
+    "static/js/2.df20873d.chunk.js": "/react-card-game/static/js/2.df20873d.chunk.js",
+    "static/js/2.df20873d.chunk.js.map": "/react-card-game/static/js/2.df20873d.chunk.js.map",
+    "index.html": "/react-card-game/index.html",
+    "static/css/main.ef27aa32.chunk.css.map": "/react-card-game/static/css/main.ef27aa32.chunk.css.map",
+    "static/js/2.df20873d.chunk.js.LICENSE.txt": "/react-card-game/static/js/2.df20873d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b09766d.js",
+    "static/js/2.df20873d.chunk.js",
+    "static/css/main.ef27aa32.chunk.css",
+    "static/js/main.f5d096a3.chunk.js"
+  ]
+}
